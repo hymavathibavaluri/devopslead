@@ -1,0 +1,6 @@
+echo "hello world"
+echo "you are devops enginerr"
+echo "don't commit unnecessary chansges into this repo"
+echo "be in your limits"
+echo "don't talk rubishly"
+echno "dont blobberr"
